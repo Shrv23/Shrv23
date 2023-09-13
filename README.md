@@ -2,7 +2,7 @@
 - 👀 I’m interested to code ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate ..
-- 📫 How to reach me through my email.
+- 📫 
 
 <!---
 Shrv23/Shrv23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
